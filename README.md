@@ -28,7 +28,7 @@ This repository contains Python scripts for developing interactive quiz games an
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quiz-captcha.git
+    git clone https://github.com/negiaarti/quiz-captcha.git
     cd quiz-captcha
     ```
 
